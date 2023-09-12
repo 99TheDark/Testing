@@ -1,0 +1,15 @@
+/Users/benkeston/Downloads/Learning C#/bin/Debug/net7.0/Learning C#
+/Users/benkeston/Downloads/Learning C#/bin/Debug/net7.0/Learning C#.deps.json
+/Users/benkeston/Downloads/Learning C#/bin/Debug/net7.0/Learning C#.runtimeconfig.json
+/Users/benkeston/Downloads/Learning C#/bin/Debug/net7.0/Learning C#.dll
+/Users/benkeston/Downloads/Learning C#/bin/Debug/net7.0/Learning C#.pdb
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.csproj.AssemblyReference.cache
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.AssemblyInfoInputs.cache
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.AssemblyInfo.cs
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.csproj.CoreCompileInputs.cache
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.dll
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/refint/Learning C#.dll
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.pdb
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/Learning C#.genruntimeconfig.cache
+/Users/benkeston/Downloads/Learning C#/obj/Debug/net7.0/ref/Learning C#.dll
