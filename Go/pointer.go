@@ -31,11 +31,20 @@ func generate() *parent {
 	return &p
 }
 
-func doThing(p *parent) {
+func mapThing(p *parent) map[*child]string {
+	m := map[*child]string{}
+	m[&p.c1] = "Child #1"
+	m[&p.c2] = "Child #2"
+	return m
+}
+
+func doThing(p *parent, m map[*child]string) {
 	fmt.Printf("%p %p\n", &p.c1, &p.c2)
+	fmt.Println(m[&p.c1], m[&p.c2])
 }
 
 func main() {
 	p := generate()
-	doThing(p)
+	m := mapThing(p)
+	doThing(p, m)
 }
